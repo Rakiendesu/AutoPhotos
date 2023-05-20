@@ -5,7 +5,7 @@
  *   
  * @package AutoPhotos
  * @author <a href="https://qqdie.com">泽泽社长</a>/<a href="https://rakien.top">Rakien</a>
- * @version 2.0.1
+ * @version 2.1.0
  * @link 
  */
 class AutoPhotos_Plugin implements Typecho_Plugin_Interface
