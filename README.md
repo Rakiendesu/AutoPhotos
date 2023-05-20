@@ -5,7 +5,7 @@ Typecho的图片瀑布流效果插件
 
 ## 插件设置面板：
 
-![image](https://github.com/Rakiendesu/AutoPhotos/assets/129365698/571c1bf2-47d1-4299-9cf5-77b6e921976a)
+![image](https://github.com/Rakiendesu/AutoPhotos/assets/129365698/3d9fba49-2d00-448c-84a5-d2bb97e32a9f)
 
 ## 注意：设置中的图片*间距*和*圆角*只对[myPhotos]起作用
 
