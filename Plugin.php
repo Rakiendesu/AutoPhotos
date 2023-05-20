@@ -41,7 +41,7 @@ $form->addInput($fhz);
           'fancybox' => _t('使用fancybox图片灯箱插件，如果您的模板已经使用了fancybox，这项就无需勾选，勾选了反而可能会出问题'),
 ),
     array(), _t('拓展设置'), _t('<h4>插件使用方法：</h4><p style="background: #fff;padding: 10px;border-radius: 5px;">
-使用<code>[photos][/photos]</code>包裹需要显示在一行的单个或者多个图片，并且<code>[photos][/photos]</code>前后要多加一个换行，如：<br>
+使用<code>[myPhotos][/myPhotos]</code>包裹需要显示在一行的单个或者多个图片，并且<code>[myPhotos][/myPhotos]</code>前后要多加一个换行，如：<br>
 <br>
 [myPhotos]<br>
 ![图1.jpg][1]<br>
