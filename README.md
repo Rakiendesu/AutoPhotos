@@ -16,3 +16,5 @@ Typecho的图片瀑布流效果插件
 ### photoList效果：
 ![image](https://github.com/Rakiendesu/AutoPhotos/assets/129365698/29c5d678-06e5-4806-a283-5406c30812b4)
 ![image](https://github.com/Rakiendesu/AutoPhotos/assets/129365698/b84e4afd-3563-4508-bbe9-0ce55d1a6ada)
+## 更新
+ - 2.1.1  添加了图像延迟加载 (适用typecho-butterfly)
